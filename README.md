@@ -1,3 +1,3 @@
 # Reverse-of-String
-#used langage is c++
+ 1:used langage is c++
 
