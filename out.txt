@@ -1,0 +1,5 @@
+Enter a string 
+Abcdefgh
+ Enter the no of string 
+2
+Cdefghab
